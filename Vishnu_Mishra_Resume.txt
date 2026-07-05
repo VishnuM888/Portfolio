@@ -1,0 +1,25 @@
+Vishnu Mishra
+Cloud & Cybersecurity Engineer
+
+Email: aadarshmishra5532@gmail.com
+LinkedIn: linkedin.com/in/vishnu-mishra
+Location: North East Delhi, India
+
+Summary
+A motivated learner focused on cloud security, cybersecurity fundamentals, Linux, networking, and modern web development.
+
+Skills
+- Python
+- HTML, CSS, JavaScript
+- Linux and networking basics
+- Cloud security fundamentals
+- Git and GitHub
+- Problem solving and project building
+
+Projects
+- Portfolio website with animated UI and contact form integration
+- Cloud and security-focused web projects
+
+Education
+- B.Tech in Computer Science & Engineering (Pursuing)
+- Senior Secondary Education
